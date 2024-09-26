@@ -1,6 +1,6 @@
 # Federated Fraud Detection System
 
-This project implements a federated learning system for credit card fraud detection using the Flower framework and scikit-learn. The system is designed to train a Random Forest Classifier across multiple clients while maintaining data privacy.
+This project was created for my final year at university. implements a federated learning system for credit card fraud detection using the Flower framework and scikit-learn. The system is designed to train a Random Forest Classifier across multiple clients while maintaining data privacy.
 ## Project Structure
 The project consists of three main Python files:
 
