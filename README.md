@@ -28,7 +28,7 @@ The project consists of three main Python files:
 
 ## Data
 
-This project uses the Credit Card Fraud Detection dataset. Due to [size constraints/data sensitivity], the full dataset is not included in this repository. 
+This project uses the Credit Card Fraud Detection dataset. Due to size constraints and data sensitivity, the full dataset is not included in this repository. 
 
 To use this project:
 1. Download the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
